@@ -1,0 +1,32 @@
+
+/* Pass Demo
+ * Created by Jake Bown
+ * @jakebown1
+ * This CSS file was created in Pass
+ */
+
+$primary_green = #2ecc71;
+$heading = #FFFFFF;
+$pad_a = 20px;
+$font = Arial, Helvetica, sans-serif;
+$full = 100%;
+$full_v = 90vh;
+
+body {
+	background-color: $primary_green;
+	height: $full;
+	width: $full;
+	overflow: hidden;
+}
+
+body, h1 {
+	width: $full;
+	height: $full;
+	line-height: $full_v;
+}
+
+body h1 {
+	color: $heading;
+	font-family: $font;
+	text-align: center;
+}
