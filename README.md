@@ -1,4 +1,4 @@
-<img src="./assets/logo.png">
+<img style="margin:0 auto;" src="./assets/logo.png">
 
 #Pass - PHP CSS Preprocessor#
 
