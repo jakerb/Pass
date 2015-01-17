@@ -1,4 +1,4 @@
-<div style="text-align:center"><img src="./assets/logo.png"></div>
+<div style="text-align:center"><img src="./assets/logo_long.png"></div>
 
 #Pass - PHP CSS Preprocessor#
 
